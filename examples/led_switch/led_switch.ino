@@ -1,6 +1,6 @@
 /*
  *Home Assiatant LED Switch
- *Using an Arduino WIZnet Ethernet shield.
+ *Using an W5x00-EVB-Pico WIZnet Ethernet shield.
  *
  * created 07 July 2023 by Scarlet
  */
